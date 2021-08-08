@@ -1,0 +1,14 @@
+{
+  "name": "js13k-audio",
+  "version": "1.0.0",
+  "description": "Demo project for minimal js13k audio system",
+  "dependencies": {
+    "live-server": "^1.2.1"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "serve": "live-server"
+  },
+  "author": "",
+  "license": "ISC"
+}
